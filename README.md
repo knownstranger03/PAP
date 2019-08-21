@@ -1,1 +1,1 @@
-# PAP for Hyderabad School of Artificial Intelligence
+# PAP projects for Hyderabad School of Artificial Intelligence
